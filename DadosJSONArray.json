@@ -3,7 +3,7 @@
   ["CODIGO","NOME","TAXA-SCODFRB","TAXA-GCE","TAXA-BANCO"  ],
   ["001","Iniciação","0.05","0.05","8.5"  ],
   ["002","Elevação","0.05","0.05","8.5"  ],
-  ["003","Regularização/Anuidade Capitulo","0.7","0.7","8.5"  ],
+  ["003","Regularização/Anuidade Capitulo (Max 15)","0.7","0.7","8.5"  ],
   ["003","Regularização/Anuidade Priorado","0.3","0.3","8.5"  ],
   ["003","Regularização/Anuidade Corte","0.2","0.2","8.5"  ],
   ["003","Regularização avulsa","0","0.05","8.5"  ],
